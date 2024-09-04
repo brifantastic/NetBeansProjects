@@ -32,6 +32,21 @@ void zylab1() {
    
    printf("%d\n", userNumSquared); 
 
+ /*
+
+  Author: Briana Tolleson 9/4/2024
+  Notes from lecture:
+  
+   "%d" is a format code.
+   & - in C ampersand character means: the address in memory of.
+   C is a mid-level language. It's fast b/c we are interacting w/ the memory.
+   we are interacting w/ memory location. 
+   ** in C means pointer arithmetic. 
+   pow function which exists in the math lib
+   void - doesn't return anything
+   */
+
+
 }
 
 void zylab2() {
